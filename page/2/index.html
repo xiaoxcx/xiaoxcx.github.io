@@ -341,23 +341,26 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2021/07/18/shen-kao-bei-he-qian-kao-bei/" target="_blank">
+                    <a href="/2021/07/18/shu-zu-qu-chong/" target="_blank">
                         <div class="card-image">
                             
                             
-                            <img src="/medias/featureimages/13.jpg" class="responsive-img" alt="深拷贝和浅拷贝">
+                            <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="数组去重">
                             
-                            <span class="card-title">深拷贝和浅拷贝</span>
+                            <span class="card-title">数组去重</span>
                         </div>
                     </a>
 
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                            深拷贝和浅拷贝支持图表类型数据类型分为基本数据类型和对象数据类型，其中基本数据类型包括字符型、数字型、布尔型、空型、未定义型、和Symbol型
+                            
+利用ES6 set去重(ES6中最常用)
 
-基本数据类型是直接存储在堆栈中的数据
-引用数据类型的特点是存储的是该对象在栈中的引用，其真实的
+function unique(arr){
+    return Array.from(new Set(arr))
+}
+var arr =[1,1,'true','true',true,true
                             
                         </div>
                         <div class="publish-info">
