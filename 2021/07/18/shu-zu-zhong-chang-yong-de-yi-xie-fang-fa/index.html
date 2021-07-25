@@ -1128,34 +1128,25 @@ a<span class="token punctuation">.</span><span class="token function">reverse</s
             <div class="article-badge left-badge text-color">
                 <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2021/07/18/qian-duan-xing-neng-you-hua/">
+                <a href="/2021/07/18/shu-zu-qu-chong/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/17.jpg" class="responsive-img" alt="前端性能优化">
+                        <img src="/medias/featureimages/2.jpg" class="responsive-img" alt="数组去重">
                         
-                        <span class="card-title">前端性能优化</span>
+                        <span class="card-title">数组去重</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            前端性能优化页面内容
+                            
+利用ES6 set去重(ES6中最常用)
 
-减少 HTTP 请求数
-减少 DNS 查询
-避免重定向
-缓存 Ajax 请求
-延迟加载
-预先加载
-减少 DOM 元素数量
-划分内容到不同域名
-尽量减少 iframe 使用
-避免 404 错误
-
-服务器
-
-使用 CDN
+function unique(arr){
+    return Array.from(new Set(arr))
+}
+var arr =[1,1,'true','true',true,true
                         
                     </div>
                     <div class="publish-info">
@@ -1192,24 +1183,29 @@ a<span class="token punctuation">.</span><span class="token function">reverse</s
                 下一篇&nbsp;<i class="fa fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2021/07/18/shi-me-shi-kua-yu/">
+                <a href="/2021/07/18/xing-nei-yuan-su-he-kuai-ji-yuan-su/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/3.jpg" class="responsive-img" alt="什么是跨域？">
+                        <img src="/medias/featureimages/15.jpg" class="responsive-img" alt="行内元素和块级元素">
                         
-                        <span class="card-title">什么是跨域？</span>
+                        <span class="card-title">行内元素和块级元素</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            什么是跨域？
-跨域，是指浏览器不能执行其他网站的脚本，它是由浏览器的同源策略造成的，是浏览器施加的安全限制。
+                            display详解CSS中的display属性
+display是前端开发中常用的一个属性，其中最常见的有：
 
-所谓同源是指，域名，协议，端口，均相同，只要有一个不同，就是跨域，有以下例子如：
+none
+block
+inline
+inline-block
+inherit
 
-http://www.123.com/ind
+display:none
+none这个值表示的是此
                         
                     </div>
                     <div class="publish-info">
