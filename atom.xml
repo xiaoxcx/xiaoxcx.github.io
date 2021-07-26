@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xcx.520sj.xyz/"/>
-  <updated>2021-07-25T08:47:53.151Z</updated>
+  <updated>2021-07-26T09:49:04.404Z</updated>
   <id>https://xcx.520sj.xyz/</id>
   
   <author>
@@ -15,6 +15,217 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue 总结</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/vue-zong-jie/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/vue-zong-jie/</id>
+    <published>2021-07-26T09:42:53.000Z</published>
+    <updated>2021-07-26T09:49:04.404Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;为什么会选vue而不选择其它的框架？&quot;&gt;&lt;a href=&quot;#为什么会选vue而不选择其它的框架？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端++" scheme="https://xcx.520sj.xyz/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="前端++" scheme="https://xcx.520sj.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>画一条0.5px的线 </title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/hua-yi-tiao-0-5px-de-xian/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/hua-yi-tiao-0-5px-de-xian/</id>
+    <published>2021-07-26T09:38:43.000Z</published>
+    <updated>2021-07-26T09:42:28.053Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/qq_37820215/article/details/107212531&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="移动端" scheme="https://xcx.520sj.xyz/categories/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+    
+      <category term="移动端" scheme="https://xcx.520sj.xyz/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H5调用手机拍照功能</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/h5-diao-yong-shou-ji-pai-zhao-gong-neng/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/h5-diao-yong-shou-ji-pai-zhao-gong-neng/</id>
+    <published>2021-07-26T09:13:15.000Z</published>
+    <updated>2021-07-26T09:50:44.004Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;H5调用手机拍照功能&quot;&gt;&lt;a href=&quot;#H5调用手机拍照功能&quot; class=&quot;headerlink&quot; title=&quot;H5调用手机拍照功能&quot;&gt;&lt;/a&gt;H5调用手机拍照功能&lt;/h4&gt;&lt;p&gt;1、自定义input操作&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/**
+ *
+        
+      
+    
+    </summary>
+    
+      <category term="移动端" scheme="https://xcx.520sj.xyz/categories/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+    
+      <category term="移动端" scheme="https://xcx.520sj.xyz/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IOS-webview-dsbridge</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/ios-webview-dsbridge/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/ios-webview-dsbridge/</id>
+    <published>2021-07-26T07:40:49.000Z</published>
+    <updated>2021-07-26T09:55:54.269Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1、IOS-webView-dsbridge&quot;&gt;&lt;a href=&quot;#1、IOS-webView-dsbridge&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="IOS" scheme="https://xcx.520sj.xyz/categories/IOS/"/>
+    
+    
+      <category term="IOS" scheme="https://xcx.520sj.xyz/tags/IOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android-dsbridge</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/android-dsbridge/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/android-dsbridge/</id>
+    <published>2021-07-26T05:23:26.000Z</published>
+    <updated>2021-07-26T05:23:50.533Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;DSBridge-for-Android&quot;&gt;&lt;a href=&quot;#DSBridge-for-Android&quot; class=&quot;headerlink&quot; title=&quot;DSBridge for Android&quot;&gt;&lt;/a&gt;DSBridge for
+        
+      
+    
+    </summary>
+    
+      <category term="安卓" scheme="https://xcx.520sj.xyz/categories/%E5%AE%89%E5%8D%93/"/>
+    
+    
+      <category term="安卓" scheme="https://xcx.520sj.xyz/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓-webview-dsbridge（安卓-jsapi调用）</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/an-zhuo-webview-dsbridge-an-zhuo-jsapi-diao-yong/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/an-zhuo-webview-dsbridge-an-zhuo-jsapi-diao-yong/</id>
+    <published>2021-07-26T05:19:53.000Z</published>
+    <updated>2021-07-26T10:00:19.588Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1、优化&quot;&gt;&lt;a href=&quot;#1、优化&quot; class=&quot;headerlink&quot; title=&quot;1、优化&quot;&gt;&lt;/a&gt;1、优化&lt;/h4&gt;&lt;p&gt;1、优化 build.gradle:project 依赖&lt;/p&gt;
+&lt;pre class=&quot;line-numbers
+        
+      
+    
+    </summary>
+    
+      <category term="安卓" scheme="https://xcx.520sj.xyz/categories/%E5%AE%89%E5%8D%93/"/>
+    
+    
+      <category term="安卓" scheme="https://xcx.520sj.xyz/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IOS-webview</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/ios-webview/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/ios-webview/</id>
+    <published>2021-07-26T04:57:02.000Z</published>
+    <updated>2021-07-26T08:45:58.572Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1、IOS-webView-H5&quot;&gt;&lt;a href=&quot;#1、IOS-webView-H5&quot; class=&quot;headerlink&quot; title=&quot;1、IOS-webView-H5&quot;&gt;&lt;/a&gt;1、IOS-webView-H5&lt;/h4&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="IOS" scheme="https://xcx.520sj.xyz/categories/IOS/"/>
+    
+    
+      <category term="IOS" scheme="https://xcx.520sj.xyz/tags/IOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓-webview</title>
+    <link href="https://xcx.520sj.xyz/2021/07/26/an-zhuo-webview/"/>
+    <id>https://xcx.520sj.xyz/2021/07/26/an-zhuo-webview/</id>
+    <published>2021-07-26T04:41:16.000Z</published>
+    <updated>2021-07-26T09:59:30.225Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1、android-webView-H5&quot;&gt;&lt;a href=&quot;#1、android-webView-H5&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="安卓" scheme="https://xcx.520sj.xyz/categories/%E5%AE%89%E5%8D%93/"/>
+    
+    
+      <category term="安卓" scheme="https://xcx.520sj.xyz/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
   
   <entry>
     <title>ES6补充&amp;正则表达式</title>
@@ -69,11 +280,11 @@
   </entry>
   
   <entry>
-    <title>H5调用手机拍照功能</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/h5-diao-yong-shou-ji-pai-zhao-gong-neng/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/h5-diao-yong-shou-ji-pai-zhao-gong-neng/</id>
+    <title>ES6笔记</title>
+    <link href="https://xcx.520sj.xyz/2021/07/18/es6-bi-ji/"/>
+    <id>https://xcx.520sj.xyz/2021/07/18/es6-bi-ji/</id>
     <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T08:47:49.566Z</updated>
+    <updated>2021-07-25T09:02:50.137Z</updated>
     
     <summary type="html">
     
@@ -81,21 +292,16 @@
       
         
         
-          &lt;pre&gt;&lt;code&gt;/**
- * @param accept
- * @param attributes
- * @returns {Promise&amp;lt;File&amp;gt;}
- */
-function webChooseFile (accept = &amp;#39;*&amp;#39;,
+          &lt;h2 id=&quot;ES6笔记&quot;&gt;&lt;a href=&quot;#ES6笔记&quot; class=&quot;headerlink&quot; title=&quot;ES6笔记&quot;&gt;&lt;/a&gt;ES6笔记&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/bba25659f0d4&quot;
         
       
     
     </summary>
     
-      <category term="移动端" scheme="https://xcx.520sj.xyz/categories/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+      <category term="ES6" scheme="https://xcx.520sj.xyz/categories/ES6/"/>
     
     
-      <category term="移动端" scheme="https://xcx.520sj.xyz/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+      <category term="ES6" scheme="https://xcx.520sj.xyz/tags/ES6/"/>
     
   </entry>
   
@@ -126,37 +332,11 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
   </entry>
   
   <entry>
-    <title>Node内容</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/node-nei-rong/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/node-nei-rong/</id>
-    <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T08:53:56.374Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;Node的特点&quot;&gt;&lt;a href=&quot;#Node的特点&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="Node" scheme="https://xcx.520sj.xyz/categories/Node/"/>
-    
-    
-      <category term="Node" scheme="https://xcx.520sj.xyz/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
     <title>koa和express</title>
     <link href="https://xcx.520sj.xyz/2021/07/18/koa-he-express/"/>
     <id>https://xcx.520sj.xyz/2021/07/18/koa-he-express/</id>
     <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T08:57:43.825Z</updated>
+    <updated>2021-07-26T09:51:42.159Z</updated>
     
     <summary type="html">
     
@@ -170,19 +350,19 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
     
     </summary>
     
-      <category term="Node" scheme="https://xcx.520sj.xyz/categories/Node/"/>
+      <category term="Node内容" scheme="https://xcx.520sj.xyz/categories/Node%E5%86%85%E5%AE%B9/"/>
     
     
-      <category term="Node" scheme="https://xcx.520sj.xyz/tags/Node/"/>
+      <category term="Node内容" scheme="https://xcx.520sj.xyz/tags/Node%E5%86%85%E5%AE%B9/"/>
     
   </entry>
   
   <entry>
-    <title>ES6笔记</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/es6-bi-ji/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/es6-bi-ji/</id>
+    <title>Node内容</title>
+    <link href="https://xcx.520sj.xyz/2021/07/18/node-nei-rong/"/>
+    <id>https://xcx.520sj.xyz/2021/07/18/node-nei-rong/</id>
     <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T09:02:50.137Z</updated>
+    <updated>2021-07-26T09:51:31.051Z</updated>
     
     <summary type="html">
     
@@ -190,16 +370,16 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
       
         
         
-          &lt;h2 id=&quot;ES6笔记&quot;&gt;&lt;a href=&quot;#ES6笔记&quot; class=&quot;headerlink&quot; title=&quot;ES6笔记&quot;&gt;&lt;/a&gt;ES6笔记&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/bba25659f0d4&quot;
+          &lt;h4 id=&quot;Node的特点&quot;&gt;&lt;a href=&quot;#Node的特点&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="ES6" scheme="https://xcx.520sj.xyz/categories/ES6/"/>
+      <category term="Node内容" scheme="https://xcx.520sj.xyz/categories/Node%E5%86%85%E5%AE%B9/"/>
     
     
-      <category term="ES6" scheme="https://xcx.520sj.xyz/tags/ES6/"/>
+      <category term="Node内容" scheme="https://xcx.520sj.xyz/tags/Node%E5%86%85%E5%AE%B9/"/>
     
   </entry>
   
@@ -217,35 +397,6 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
         
         
           &lt;h4 id=&quot;什么是跨域？&quot;&gt;&lt;a href=&quot;#什么是跨域？&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="前端" scheme="https://xcx.520sj.xyz/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-      <category term="前端" scheme="https://xcx.520sj.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>前端性能优化</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/qian-duan-xing-neng-you-hua/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/qian-duan-xing-neng-you-hua/</id>
-    <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T08:59:51.707Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;前端性能优化&quot;&gt;&lt;a href=&quot;#前端性能优化&quot; class=&quot;headerlink&quot; title=&quot;前端性能优化&quot;&gt;&lt;/a&gt;前端性能优化&lt;/h4&gt;&lt;p&gt;页面内容&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;减少 HTTP 请求数&lt;/li&gt;
-&lt;li&gt;减少 DNS
         
       
     
@@ -289,11 +440,11 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
   </entry>
   
   <entry>
-    <title>数组去重</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/shu-zu-qu-chong/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/shu-zu-qu-chong/</id>
+    <title>前端性能优化</title>
+    <link href="https://xcx.520sj.xyz/2021/07/18/qian-duan-xing-neng-you-hua/"/>
+    <id>https://xcx.520sj.xyz/2021/07/18/qian-duan-xing-neng-you-hua/</id>
     <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T09:04:03.783Z</updated>
+    <updated>2021-07-25T08:59:51.707Z</updated>
     
     <summary type="html">
     
@@ -301,62 +452,10 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
       
         
         
-          &lt;ol&gt;
-&lt;li&gt;利用ES6 set去重(ES6中最常用)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre class=&quot;line-numbers language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token
-        
-      
-    
-    </summary>
-    
-      <category term="前端" scheme="https://xcx.520sj.xyz/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-      <category term="前端" scheme="https://xcx.520sj.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数组中常用的一些方法</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/shu-zu-zhong-chang-yong-de-yi-xie-fang-fa/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/shu-zu-zhong-chang-yong-de-yi-xie-fang-fa/</id>
-    <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T09:03:47.678Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h4 id=&quot;Array-数组-10个常用方法&quot;&gt;&lt;a href=&quot;#Array-数组-10个常用方法&quot; class=&quot;headerlink&quot; title=&quot;Array(数组)10个常用方法&quot;&gt;&lt;/a&gt;Array(数组)10个常用方法&lt;/h4&gt;&lt;p&gt;1、push
-        
-      
-    
-    </summary>
-    
-      <category term="ES6" scheme="https://xcx.520sj.xyz/categories/ES6/"/>
-    
-    
-      <category term="ES6" scheme="https://xcx.520sj.xyz/tags/ES6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>行内元素和块级元素</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/xing-nei-yuan-su-he-kuai-ji-yuan-su/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/xing-nei-yuan-su-he-kuai-ji-yuan-su/</id>
-    <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T08:56:57.059Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;display详解&quot;&gt;&lt;a href=&quot;#display详解&quot; class=&quot;headerlink&quot;
+          &lt;h4 id=&quot;前端性能优化&quot;&gt;&lt;a href=&quot;#前端性能优化&quot; class=&quot;headerlink&quot; title=&quot;前端性能优化&quot;&gt;&lt;/a&gt;前端性能优化&lt;/h4&gt;&lt;p&gt;页面内容&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;减少 HTTP 请求数&lt;/li&gt;
+&lt;li&gt;减少 DNS
         
       
     
@@ -396,11 +495,11 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
   </entry>
   
   <entry>
-    <title>学习总结</title>
-    <link href="https://xcx.520sj.xyz/2021/07/18/xue-xi-zong-jie/"/>
-    <id>https://xcx.520sj.xyz/2021/07/18/xue-xi-zong-jie/</id>
+    <title>数组中常用的一些方法</title>
+    <link href="https://xcx.520sj.xyz/2021/07/18/shu-zu-zhong-chang-yong-de-yi-xie-fang-fa/"/>
+    <id>https://xcx.520sj.xyz/2021/07/18/shu-zu-zhong-chang-yong-de-yi-xie-fang-fa/</id>
     <published>2021-07-18T08:38:19.000Z</published>
-    <updated>2021-07-25T08:48:41.971Z</updated>
+    <updated>2021-07-25T09:03:47.678Z</updated>
     
     <summary type="html">
     
@@ -408,8 +507,36 @@ function webChooseFile (accept = &amp;#39;*&amp;#39;,
       
         
         
-          &lt;p&gt;前端学习总结，带答案:&lt;a href=&quot;https://blog.csdn.net/Coco_998/article/details/82958819&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;詳解&lt;/a&gt;&lt;/p&gt;
-&lt;h4
+          &lt;h4 id=&quot;Array-数组-10个常用方法&quot;&gt;&lt;a href=&quot;#Array-数组-10个常用方法&quot; class=&quot;headerlink&quot; title=&quot;Array(数组)10个常用方法&quot;&gt;&lt;/a&gt;Array(数组)10个常用方法&lt;/h4&gt;&lt;p&gt;1、push
+        
+      
+    
+    </summary>
+    
+      <category term="ES6" scheme="https://xcx.520sj.xyz/categories/ES6/"/>
+    
+    
+      <category term="ES6" scheme="https://xcx.520sj.xyz/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数组去重</title>
+    <link href="https://xcx.520sj.xyz/2021/07/18/shu-zu-qu-chong/"/>
+    <id>https://xcx.520sj.xyz/2021/07/18/shu-zu-qu-chong/</id>
+    <published>2021-07-18T08:38:19.000Z</published>
+    <updated>2021-07-25T09:04:03.783Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;利用ES6 set去重(ES6中最常用)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class=&quot;line-numbers language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token
         
       
     
